@@ -1,2 +1,2 @@
 # Finoramic Assignments
-Added all snipt into a single file.
+Added all snipt code into a single file.
