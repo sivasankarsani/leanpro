@@ -3,4 +3,8 @@ class User():
 		self._id = _id
 		self.username = username
 		self.password = password
+		self.dummy =''
+		self.__san='s'
+		
+
 	
