@@ -3,7 +3,7 @@ from flask_restful import Resource, Api, jsonify,request, reqparser
 from flask_jwt import JWT, jwt_required
 
 from security import authenticate, identify
-
+# testing the git hub
 app = Flask(__name__)
 
 app.secret_key = "sankar"
