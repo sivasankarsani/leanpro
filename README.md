@@ -1,2 +1,6 @@
 # Finoramic Assignments
-Added all snipt code into a single file.
+Added all snippt code into a single file.
+
+# This is for learns and configs.
+
+
